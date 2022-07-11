@@ -29,3 +29,7 @@ We hope to further build our website into a platform where individuals of simila
 
 ### Build an app
 We hope to build our software into an app for individuals to access through their mobile phones as well.
+
+### Demo Video
+
+https://user-images.githubusercontent.com/78225681/178316571-49b6413d-62e6-4ca4-9799-22ca0ca477b5.mp4
